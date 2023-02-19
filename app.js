@@ -92,12 +92,20 @@
 //var b=5
 //var multi=a*b
 //console.log(multi)
-
-
-
-
-
-
+//CHAPTER6TO9 MATH EXPRESSIONS
+//Qno1
+//var a=2
+//var b=1
+//var result = --a - --b + ++b + b--;
+//console.log(result)
+//var result =--a;
+//console.log(result)
+//var result =--a - --b + ++b;
+//console.log(result)
+//var result =--a - --b + ++b + b--;
+//console.log(result)
+//CHAPTER10TO13
+var city=prompt ("Enter Your city");
 
 
 
